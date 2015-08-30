@@ -22,7 +22,7 @@
         <extension point="xbmc.addon.repository" name="Nas Live Tv Addons">
                 <info compressed="true">https://github.com/tv4u/Hasim/blob/master/addons.xml</info>
                 <checksum>https://github.com/tv4u/Hasim/blob/master/addons.xml.md5</checksum>
-                <datadir zip="true">https://github.com/tv4u/Hasim</datadir>
+                <datadir zip="true">https://github.com/tv4u/Hasim/tree/master/plugin.video.TV4U</datadir>
         </extension>
         <extension point="xbmc.addon.metadata">
                 <summary>Watch Live TV</summary>
