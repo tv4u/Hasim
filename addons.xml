@@ -20,7 +20,7 @@
 
 <addon id="plugin.video.TV4U" name="TV4U" version="1.4" provider-name="NAS">
         <extension point="xbmc.addon.repository" name="Nas Live Tv Addons">
-                <info compressed="false">https://github.com/tv4u/Hasim/blob/master/addons.xml</info>
+                <info compressed="true">https://github.com/tv4u/Hasim/blob/master/addons.xml</info>
                 <checksum>https://github.com/tv4u/Hasim/blob/master/addons.xml.md5</checksum>
                 <datadir zip="true">https://github.com/tv4u/Hasim</datadir>
         </extension>
