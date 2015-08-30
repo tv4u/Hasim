@@ -765,7 +765,7 @@ class UT(BaseChannel):
 class Arirang(BaseChannel):
     playable = True
     short_name = 'MTA'
-    long_name = 'MTA ORIGINAL 5'
+    long_name = 'MTA ORIGINAL'
     default_action = 'play_stream' 
 
     def action_play_stream(self):
